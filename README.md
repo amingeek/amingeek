@@ -1,25 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Seyyed Amin Pourseyyedy</h1>
 <h3 align="center">A Back-end php developer</h3>
-<div class="container">
-    <div class="container_terminal"></div>
-    <div class="terminal_toolbar">
-        <div class="butt">
-            <button class="btn btn-color"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-        </div>
-        <p class="user">johndoe@admin: ~</p>
-    </div>
-    <div class="terminal_body">
-        <div class="terminal_promt">
-            <span class="terminal_user">johndoe@admin:</span>
-            <span class="terminal_location">~</span>
-            <span class="terminal_bling">$</span>
-            <span class="terminal_cursor"></span>
-        </div>
-    </div>
-</div>
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amination1](https://github.com/Amination1)
