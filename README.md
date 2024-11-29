@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Seyyed Amin Pourseyyedy</h1>
-<h3 align="center">A Back-end php developer</h3>
-- 🌱 I’m currently learning **Laravel**
+<h3 align="center">A Back-end .net developer</h3>
+- 🌱 I’m currently learning **Asp.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amination1](https://github.com/Amination1)
 
-- 💬 Ask me about **php, python**
+- 💬 Ask me about **php, python, c#**
 
 - 📫 How to reach me **seyyed.amin.8809@gmail.com**
 
