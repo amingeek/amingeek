@@ -1,5 +1,5 @@
-<h1 align="center" color="red">👋 Hi, I'm Seyyed Amin Pourseyyedy</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1BF700&background=5916FF00&center=true&vCenter=true&width=435&lines=A+Back-end+.NET+Developer" alt="Typing SVG" /></a>
+<h1 align="center" style="color: red;">👋 Hi, I'm Seyyed Amin Pourseyyedy</h1>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1BF700&background=5916FF00&center=true&vCenter=true&width=435&lines=A+Back-end+.NET+Developer" alt="Typing SVG" /></a>
 <!-- <h3 align="center">🌟 A Back-end .NET Developer</h3> -->
 
 <p align="center">
