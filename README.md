@@ -86,7 +86,15 @@
 
 ### 📊 Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amination1&layout=compact&langs_count=6" alt="Top Languages" />
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical&bg_color=000000" alt="GitHub Stats" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amination1&layout=compact&langs_count=6&bg_color=000000" alt="Top Languages" />
+            </td>
+        </tr>
+    </table>
 </div>
+
