@@ -81,3 +81,4 @@
 </p>
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amination1&layout=compact&langs_count=6)
