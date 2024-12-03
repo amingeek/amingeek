@@ -4,7 +4,7 @@
 <p align="center">
     🌱 I’m currently learning <strong>Asp.NET</strong><br>
     👨‍💻 All of my projects are available at <a href="https://github.com/Amination1" target="_blank">GitHub</a><br>
-    💬 Ask me about <strong>PHP, Python, C#, C</strong><br>
+    💬 Ask me about <strong>PHP, Python, C#, C, JavaScript, Node.js, TypeScript</strong><br>
     📫 How to reach me: <strong><a href="mailto:seyyed.amin.8809@gmail.com">seyyed.amin.8809@gmail.com</a></strong>
 </p>
 
@@ -20,7 +20,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="50" height="50" style="margin: 5px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Asp.net_logo.svg" alt="ASP.NET" width="50" height="50" style="margin: 5px;"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 5px;"/>
@@ -51,6 +51,18 @@
     </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 5px;"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;"/> 
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 5px;"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 5px;"/> 
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" style="margin: 5px;"/> 
     </a>
 </p>
 
