@@ -20,7 +20,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3a/Asp.net_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fdotnetcore&psig=AOvVaw1H9UtUvmnEG6Ls7Y8XTzXM&ust=1733341895423000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPizr_OvjIoDFQAAAAAdAAAAABAK)" alt="ASP.NET" width="50" height="50" style="margin: 5px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="50" height="50" style="margin: 5px;"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 5px;"/>
