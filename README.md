@@ -79,7 +79,5 @@
 <p align="left">
     Feel free to reach out if you have any questions or just want to connect!
 </p>
-    ![Your Stats](https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical)
 
-<div align="center" style="font-size: 24px;">
-</div>
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical)
