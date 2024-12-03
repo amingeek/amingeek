@@ -19,6 +19,9 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET" width="50" height="50" style="margin: 5px;"/>
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 5px;"/>
     </a> 
