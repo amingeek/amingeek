@@ -4,7 +4,7 @@
 <p align="center">
     🌱 I’m currently learning <strong>Asp.NET</strong><br>
     👨‍💻 All of my projects are available at <a href="https://github.com/Amination1" target="_blank">GitHub</a><br>
-    💬 Ask me about <strong>PHP, Python, C#</strong><br>
+    💬 Ask me about <strong>PHP, Python, C#, C</strong><br>
     📫 How to reach me: <strong><a href="mailto:seyyed.amin.8809@gmail.com">seyyed.amin.8809@gmail.com</a></strong>
 </p>
 
@@ -38,5 +38,8 @@
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
     </a> 
 </p>
