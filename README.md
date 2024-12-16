@@ -1,14 +1,14 @@
 <h1 align="center" style="color: red;">👋 Hi, I'm Seyyed Amin Pourseyyedy</h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BF700&width=435&lines=A+Back+End+Django+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=0BF700&width=435&lines=A+Back+End+Django+Developer" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning **ASP.NET Core**  
+- 🌱 I’m currently learning **Django**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amination1)  
 - 💬 Ask me about **PHP, Python, C#, C, JavaScript, Node.js, TypeScript**  
 - 📫 Reach me via email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
