@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amination1)  
-- 💬 Ask me about **PHP, Python, C#, C, JavaScript, Node.js, TypeScript**  
+- 💬 Ask me about **Django, Python, C#, C, JavaScript, Node.js, TypeScript**  
 - 📫 Reach me via email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
 
 ---
@@ -30,8 +30,8 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-    <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="50" height="50" style="margin: 10px;"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
@@ -41,9 +41,6 @@
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://imgs.search.brave.com/BGKJJCnu1HrULJyCmKNSLYmslowZlbrSGCFPtVeRW4o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9sYXJhdmVs/LWljb24tNDk3eDUx/Mi11d3lic3RrZS5w/bmc" alt="Laravel" width="50" height="50" style="margin: 10px;"/>
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;"/>
@@ -95,4 +92,3 @@
         </tr>
     </table>
 </div>
-
