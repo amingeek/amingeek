@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amination1)  
-- 💬 Ask me about **Django, Python, C#, C, PHP**  
+- 💬 Ask me about **Django, Python, C#, C, PHP, Laravel**  
 - 📫 Reach me via email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
 
 ---
