@@ -76,10 +76,10 @@
     <table>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Amination1&show_icons=true&theme=radical&bg_color=000000&hide_title=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px;"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=amingeek&show_icons=true&theme=radical&bg_color=000000&hide_title=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px;"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amination1&layout=compact&langs_count=6&bg_color=000000&hide_border=true&card_width=400" alt="Top Languages" style="width: 400px;"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amingeek&layout=compact&langs_count=6&bg_color=000000&hide_border=true&card_width=400" alt="Top Languages" style="width: 400px;"/>
             </td>
         </tr>
     </table>
