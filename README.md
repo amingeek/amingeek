@@ -8,7 +8,7 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning **Django**  
+- 🌱 I’m currently learning **Go**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amination1)  
 - 💬 Ask me about **Django, Python, C#, C, PHP, Go**  
 - 📫 Reach me via email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
