@@ -1,86 +1,98 @@
-<h1 align="center" style="color: red;">👋 Hi, I'm Seyyed Amin Pourseyyedy</h1>
+<h1 align="center">
+  Hi, I'm Seyyed Amin 👋
+</h1>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=0BF700&width=435&lines=A+Back+End+Developer" alt="Typing SVG" /></a>
-</div>
+<h3 align="center">
+  Software Engineer • Backend Developer • Go • APIs • Web Applications
+</h3>
 
----
-
-### 🌱 About Me
-
-- 🌱 I’m currently learning **Go**  
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amination1)  
-- 💬 Ask me about **Django, Python, C#, C, PHP, Go**  
-- 📫 Reach me via email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
-
----
-
-### 📇 Connect with Me
 <p align="center">
-    <!-- Add more links if needed -->
-    <a href="https://github.com/Amination1" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40" style="margin: 10px;"/>
-    </a>
-    <a href="mailto:seyyed.amin.8809@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40" style="margin: 10px;"/>
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer+and+Backend+Developer;Go+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;Building+APIs%2C+Web+Apps+and+Backend+Services;Data+Analysis+with+Python%2C+Pandas+and+NumPy;Exploring+Zig%2C+C%2C+AI+and+Cloud+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center">
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://nestjs.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="50" height="50" style="margin: 10px;"/>
-    </a>
+## 👨‍💻 About Me
 
-</p>
+I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas into reliable, scalable and production-ready software.
+
+- 🔭 I build backend services, REST APIs and web applications.
+- 🧠 My main focus is **Go**, **Laravel**, **PostgreSQL**, **Docker**, **Nginx** and deployment.
+- 📊 I work with data using **Python**, **Pandas** and **NumPy**.
+- ⚙️ I also explore systems programming with **C** and **Zig**.
+- 🤖 Currently learning AI integrations, agents and prompt evaluation.
+- 📫 Email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
 
 ---
 
-### 📊 Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [gogent](https://github.com/amingeek/gogent) | Go-based AI agent project | Go |
+| [jobshop](https://github.com/amingeek/jobshop) | Job/shop web application | Blade / PHP |
+| [telego](https://github.com/amingeek/telego) | Telegram bot project | Go |
+| [sharifbot](https://github.com/amingeek/sharifbot) | Telegram assistant bot | Go |
+| [mini-go](https://github.com/amingeek/mini-go) | Collection of Go mini projects | Go |
+| [cs50ai](https://github.com/amingeek/cs50ai) | CS50 AI coursework and projects | Python |
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Software Engineering
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases, APIs & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=amingeek&show_icons=true&theme=radical&bg_color=000000&hide_title=true&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 400px;"/>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amingeek&layout=compact&langs_count=6&bg_color=000000&hide_border=true&card_width=400" alt="Top Languages" style="width: 400px;"/>
-            </td>
-        </tr>
-    </table>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amingeek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amingeek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2F81F7" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amingeek&theme=tokyonight&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amingeek&bg_color=00000000&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/amingeek">
+    <img src="https://img.shields.io/badge/GitHub-amingeek-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:seyyed.amin.8809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-seyyed.amin.8809%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
