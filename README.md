@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer+and+Backend+Developer;Go+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;Building+APIs%2C+Web+Apps+and+Backend+Services;Data+Analysis+with+Python%2C+Pandas+and+NumPy;Exploring+Zig%2C+C%2C+AI+and+Cloud+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Engineer+and+Backend+Developer;Go+%7C+Laravel+%7C+Django+%7C+PostgreSQL;Building+APIs%2C+Web+Apps+and+Backend+Services;Data+Analysis+with+Python%2C+Pandas+and+NumPy;Exploring+Zig%2C+C%2C+AI+and+Cloud+Deployment" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,6 +22,8 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 - ⚙️ I also explore systems programming with **C** and **Zig**.
 - 🤖 Currently learning AI integrations, agents and prompt evaluation.
 - 📫 Email: [seyyed.amin.8809@gmail.com](mailto:seyyed.amin.8809@gmail.com)
+- 💬 Telegram: [@khodegeek](https://t.me/khodegeek)
+- 📷 Instagram: [@khodegeek](https://instagram.com/khodegeek)
 
 ---
 
@@ -29,12 +31,12 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 
 | Project | Description | Tech |
 |---|---|---|
+| **MegaPlatform** 🔒 | Private AI-powered platform for analyzing and evaluating startups, with multi-provider AI support, JWT authentication, dashboards and modular analysis workflows. | Go, Gin, GORM, MySQL, Docker |
 | [gogent](https://github.com/amingeek/gogent) | Go-based AI agent project | Go |
 | [jobshop](https://github.com/amingeek/jobshop) | Job/shop web application | Blade / PHP |
-| [telego](https://github.com/amingeek/telego) | Telegram bot project | Go |
-| [sharifbot](https://github.com/amingeek/sharifbot) | Telegram assistant bot | Go |
 | [mini-go](https://github.com/amingeek/mini-go) | Collection of Go mini projects | Go |
-| [cs50ai](https://github.com/amingeek/cs50ai) | CS50 AI coursework and projects | Python |
+
+> 🔒 **MegaPlatform is a private repository.**
 
 ---
 
@@ -43,6 +45,7 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 ### Backend & Software Engineering
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,6 +69,10 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -77,11 +84,11 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amingeek&theme=tokyonight&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amingeek&theme=tokyonight&hide_border=true&background=000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amingeek&bg_color=00000000&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amingeek&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 </div>
 
 ---
@@ -94,5 +101,11 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
   </a>
   <a href="mailto:seyyed.amin.8809@gmail.com">
     <img src="https://img.shields.io/badge/Email-seyyed.amin.8809%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/khodegeek">
+    <img src="https://img.shields.io/badge/Telegram-%40khodegeek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/khodegeek">
+    <img src="https://img.shields.io/badge/Instagram-%40khodegeek-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
