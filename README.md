@@ -74,6 +74,12 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=go&logoColor=white)
 
+### Monitoring, Search & Analytics
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
 ---
 
 ## 📊 GitHub Statistics
