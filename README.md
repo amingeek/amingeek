@@ -91,11 +91,11 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amingeek&theme=tokyonight&hide_border=true&background=000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amingeek&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amingeek&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amingeek&bg_color=1A1B27&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 </div>
 
 ---
