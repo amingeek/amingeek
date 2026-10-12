@@ -17,7 +17,7 @@
 I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas into reliable, scalable and production-ready software.
 
 - 🔭 I build backend services, REST APIs and web applications.
-- 🧠 My main focus is **Go**, **Laravel**, **PostgreSQL**, **Docker**, **Nginx** and deployment.
+- 🧠 My main focus is **Go**, **Django**, **ASP.net**, **Laravel**, **PostgreSQL**, **Docker**, **Nginx** and deployment.
 - 📊 I work with data using **Python**, **Pandas** and **NumPy**.
 - ⚙️ I also explore systems programming with **C** and **Zig**.
 - 🤖 Currently learning AI integrations, agents and prompt evaluation.
