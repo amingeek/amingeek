@@ -32,6 +32,7 @@ I am a **Software Engineer** and **Backend Developer** who enjoys turning ideas 
 | Project | Description | Tech |
 |---|---|---|
 | **MegaPlatform** 🔒 | Private AI-powered platform for analyzing and evaluating startups, with multi-provider AI support, JWT authentication, dashboards and modular analysis workflows. | Go, Gin, GORM, MySQL, Docker |
+| [regorder](https://github.com/amingeek/regorder) | Voice and LLM-based ordering assistant that combines Go services with Python AI components and speech recognition. | Go, Python, Whisper, LLM |
 | [gogent](https://github.com/amingeek/gogent) | Go-based AI agent project | Go |
 | [jobshop](https://github.com/amingeek/jobshop) | Job/shop web application | Blade / PHP |
 | [mini-go](https://github.com/amingeek/mini-go) | Collection of Go mini projects | Go |
