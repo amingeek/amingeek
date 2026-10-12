@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#00F716FF&center=true&vCenter=true&width=650&lines=Software+Engineer+and+Backend+Developer;Go+%7C+Laravel+%7C+Django+%7C+PostgreSQL;Building+APIs%2C+Web+Apps+and+Backend+Services;Data+Analysis+with+Python%2C+Pandas+and+NumPy;Exploring+Zig%2C+C%2C+AI+and+Cloud+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F716FF&center=true&vCenter=true&width=650&lines=Software+Engineer+and+Backend+Developer;Go+%7C+Laravel+%7C+Django+%7C+PostgreSQL;Building+APIs%2C+Web+Apps+and+Backend+Services;Data+Analysis+with+Python%2C+Pandas+and+NumPy;Exploring+Zig%2C+C%2C+AI+and+Cloud+Deployment" alt="Typing SVG" />
 </p>
 
 ---
